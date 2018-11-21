@@ -1,2 +1,31 @@
 # QwaveOpenCV-Examples
-QwaveOpenCV Examples using OpenCV (C/C++) and NI-VISION for Raspberry Pi 3B/3B+
+
+[**QwaveOpenCV-Examples**](https://github.com/QWaveSystems/QwaveOpenCV-Examples) is a examples using OpenCV and NI-VISION functions. 
+
+
+**Installation**
+
+1.Download and Install **"qwave_opencv_examples-xx.xx.vip"** using VIPM (VI Package Manager).
+
+![](http://ftp.qwavesys.com/tmp_pics/OpenCV_Examples-03.png)
+
+2.After installed you can find functions under **Vision and Motion > QwaveOpenCV-Examples** palette.
+
+![](http://ftp.qwavesys.com/tmp_pics/OpenCV_Examples-05.png)
+
+3.The example project is located at **"C:\Program Files (x86)\National Instruments\LabVIEW 2014\vi.lib\Q-Wave Systems\QwaveOpenCV_Examples"**. Open **"Qwave Vision Example.lvproj"**
+
+![](http://ftp.qwavesys.com/tmp_pics/OpenCV_Examples-02.png)
+
+![](http://ftp.qwavesys.com/tmp_pics/OpenCV_Examples-04.png)
+
+
+------------------------------------------------------------------
+
+-Raspberry Pi™ is a registered trademark of the Raspberry Pi foundation.
+
+-OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. `(http://opencv.org/)`
+
+------------------------------------------------------------------
+Created by `Amornthep Phunsin` and `Supawat Armart` (Q-Wave Systems)
+Contact : `"amornthep@qwavesys.com"`
