@@ -2,6 +2,7 @@
 
 [**QwaveOpenCV-Examples**](https://github.com/QWaveSystems/QwaveOpenCV-Examples) is a examples using OpenCV and NI-VISION functions. 
 
+**QwaveOpenCV-Examples** package is required [**QwaveOpenCV**](https://github.com/QWaveSystems/QwaveOpenCV) and [**QwaveCameraCV**](https://github.com/QWaveSystems/QwaveCameraCV) to aquired image from camera under Raspberry Pi (ARMv7 Linux enviromnent)
 
 **Installation**
 
